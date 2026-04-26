@@ -23,7 +23,7 @@ glpi-migration/
 
 ```bash
 # 1. Cloner le repo sur la machine source ou cible
-git clone https://github.com/<toi>/glpi-migration.git
+git clone https://github.com/S1CH1/glpi-migration.git
 cd glpi-migration
 
 # 2. Créer et renseigner le fichier de config
